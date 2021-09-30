@@ -1,0 +1,7 @@
+[tasks.build]
+command = "trunk"
+args = ["build"]
+
+[tasks.serve]
+command = "trunk"
+args = ["serve"]
